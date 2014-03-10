@@ -1,0 +1,27 @@
+[
+    {
+        "caption": "Wrangler",
+        "children": [
+            {
+                "caption": "Rename Module",
+                "command": "wrangler_prompt_rename_module"
+            },
+            {
+                "caption": "Rename Funtion",
+                "command": "wrangler_prompt_rename_function"
+            },
+            {
+                "caption": "Export Function",
+                "command": "wrangler_export"
+            },
+            {
+                "caption": "Rename Variable",
+                "command": "wrangler_prompt_rename_variable"
+            },
+            {
+                "caption": "Undo",
+                "command": "wrangler_undo"
+            }
+        ]
+    }
+]
